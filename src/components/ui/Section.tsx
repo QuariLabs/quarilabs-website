@@ -5,7 +5,7 @@ const Section = (props: ComponentProps<"div">) => {
   return (
     <div
       {...rest}
-      className={`xl:max-w-screen-[1512px] max-w-full px-[5rem] w-full mx-auto py-20 xl:px-[20rem] ${className}`}
+      className={`xl:max-w-screen-[1512px] max-w-full max-sm:px-5 max-sm:py-7 px-[5rem] w-full mx-auto py-20 xl:px-[20rem] ${className}`}
     >
       {children}
     </div>

@@ -6,7 +6,7 @@ import LampIcon from "../icons/LampIcon";
 
 const GetToKnowUs = () => {
   return (
-    <Section className="!pb-0">
+    <Section className="!pb-0 max-sm:mt-10">
       <div>
         <h1 className="flex gap-4 items-center text-3xl font-clashDisplay font-bold">
           <DoubleCircle />
@@ -18,7 +18,7 @@ const GetToKnowUs = () => {
           digital transactions and decentralized applications
         </p>
 
-        <div className="flex items-center gap-4">
+        <div className="flex max-sm:flex-col items-center gap-4">
           <div className="font-clashDisplay bg-quari-gray-200 p-11 rounded-3xl h-max">
             <h2 className="flex items-center gap-4 text-2xl font-bold">
               <GoalIcon />
