@@ -11,7 +11,7 @@ const Project = () => {
         <DoubleCircle />
         Projects
       </h1>
-      <div className="bg-gradient-to-r from-[#181615] max-md:p-8  font-clashDisplay to-[#42403F] p-16 rounded-[3rem] relative mt-10 text-white flex flex-col ga-4">
+      <div className="bg-gradient-to-r from-[#181615] max-md:p-8 font-clashDisplay to-[#42403F] p-16 rounded-3xl relative mt-10 text-white flex flex-col ga-4">
         <h2 className="text-2xl font-bold">Velix</h2>
         <p className="mt-4">
           Velix is a liquid staking as a service protocol on various ecosystems.

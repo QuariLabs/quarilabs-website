@@ -7,7 +7,7 @@ const Hero = () => {
   return (
     <div className="bg-quari-gray-200">
       <Section className="!pb-0 overflow-x-hidden">
-        <QuariLabLogo />
+        <QuariLabLogo className="w-36" />
         <div className="flex justify-between max-sm:flex max-sm:flex-col max-lg:flex-col max-sm:items-center items-center max-lg:items-start max-lg:mt-10">
           <div>
             <h1 className="text-[2.5rem] max-sm:text-2xl font-clashDisplay font-bold max-w-xl leading-tight">

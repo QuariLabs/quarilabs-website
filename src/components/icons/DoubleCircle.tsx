@@ -10,7 +10,7 @@ const DoubleCircle = (props: ComponentProps<"svg">) => {
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
-      <g clip-path="url(#clip0_23_11751)">
+      <g clipPath="url(#clip0_23_11751)">
         <path
           d="M18.5 26.0324C22.66 26.0324 26.0324 22.6601 26.0324 18.5C26.0324 14.34 22.66 10.9676 18.5 10.9676C14.34 10.9676 10.9676 14.34 10.9676 18.5C10.9676 22.6601 14.34 26.0324 18.5 26.0324Z"
           fill="url(#paint0_linear_23_11751)"
