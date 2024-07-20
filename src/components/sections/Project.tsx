@@ -11,7 +11,7 @@ const Project = () => {
         <DoubleCircle />
         Projects
       </h1>
-      <div className="bg-gradient-to-r from-[#181615] font-clashDisplay to-[#42403F] p-16 max-sm:p-10 rounded-[3rem] relative mt-10 text-white flex flex-col ga-4">
+      <div className="bg-gradient-to-r from-[#181615] max-md:p-8  font-clashDisplay to-[#42403F] p-16 rounded-[3rem] relative mt-10 text-white flex flex-col ga-4">
         <h2 className="text-2xl font-bold">Velix</h2>
         <p className="mt-4">
           Velix is a liquid staking as a service protocol on various ecosystems.
@@ -29,7 +29,7 @@ const Project = () => {
             <ArrowUpIcon className="stroke-black" />
           </span>
         </a>
-        <div className="absolute -top-20 max-sm:right-0 max-sm:top-80 -right-16 w-[38.1875rem] h-[32.25rem] max-sm:w-[22.8125rem] max-sm:h-[19.25rem]">
+        <div className="absolute -top-20 max-lg:right-0 max-lg:top-80 -right-16 max-lg:hidden w-[38.1875rem] h-[29.25rem] max-lg:w-[22.8125rem] max-lg:h-[19.25rem]">
           <Image src="/velix-demo.png" fill alt="velix demo" />
         </div>
       </div>

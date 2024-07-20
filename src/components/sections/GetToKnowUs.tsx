@@ -19,7 +19,7 @@ const GetToKnowUs = () => {
         </p>
 
         <div className="flex max-sm:flex-col items-center gap-4">
-          <div className="font-clashDisplay bg-quari-gray-200 p-11 rounded-3xl h-max">
+          <div className="font-clashDisplay bg-quari-gray-200 p-11 max-md:p-5 rounded-3xl h-max">
             <h2 className="flex items-center gap-4 text-2xl font-bold">
               <GoalIcon />
               Mission
@@ -29,7 +29,7 @@ const GetToKnowUs = () => {
               innovative and impactful blockchain solutions.
             </p>
           </div>
-          <div className="font-clashDisplay bg-quari-gray-200 p-11 rounded-3xl h-max">
+          <div className="font-clashDisplay bg-quari-gray-200 p-11 max-md:p-5 rounded-3xl h-max">
             <h2 className="flex items-center gap-4 text-2xl font-bold">
               <LampIcon />
               Vision
