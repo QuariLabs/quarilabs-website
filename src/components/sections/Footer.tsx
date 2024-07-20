@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <div
       id="footer"
-      className="bg-gradient-to-b from-[#181615] to-[#343434] mt-32 max-sm:mt-80- max-lg:mt-10 h-[30.75rem] max-lg:h-[20rem] relative overflow-hidden"
+      className="bg-gradient-to-b from-[#181615] to-[#343434] mt-32 max-sm:mt-80 max-lg:mt-10 h-[30.75rem] max-lg:h-[20rem] relative overflow-hidden"
     >
       <Section className="">
         <div className="flex max-sm:flex-col justify-between">
