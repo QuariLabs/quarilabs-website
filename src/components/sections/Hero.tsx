@@ -10,19 +10,20 @@ const Hero = () => {
         <QuariLabLogo className="max-md:w-36" />
         <div className="flex justify-between max-sm:flex max-sm:flex-col max-lg:flex-col max-sm:items-center items-center max-lg:items-start max-lg:mt-10">
           <div>
-            <h1 className="text-[2.5rem] max-sm:text-2xl font-clashDisplay font-bold max-w-xl leading-tight">
+            <h1 className="text-[2.5rem] max-sm:text-2xl text-black font-clashDisplay font-bold max-w-xl leading-tight">
               Building Tomorrow&lsquo;s Blockchain Solutions,{" "}
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-quari-orange-500 via-quari-orange-500 to-quari-orange-300">
                 Today
               </span>
             </h1>
-            <p className="font-light font-clashDisplay mt-3 max-sm:mt-5">
-              Discover cutting-edge dApps and infra, setting new tech standards.
+            <p className="font-light text-black font-clashDisplay mt-3 max-sm:mt-5">
+              Discover true blockchain innovation, creating new experiences for
+              Web3 users.
             </p>
             <div className="flex items-center gap-4 mt-6 max-sm:text-xs max-sm:flex-col max-sm:items-start">
               <a
                 href="#projects"
-                className="w-fit flex py-2 pl-5 pr-2 text-sm max-md:hidden font-clashDisplay font-bold text-white items-center rounded-full gap-4 bg-gradient-to-r from-quari-orange-500 via-quari-orange-500 to-quari-orange-300"
+                className="w-fit flex py-2 pl-5 pr-2 text-sm max-md:hidden font-clashDisplay font-semibold text-white items-center rounded-full gap-4 bg-gradient-to-r from-quari-orange-500 to-quari-orange-300"
               >
                 Browse Projects
                 <span className="bg-white rounded-full p-2">
@@ -31,7 +32,7 @@ const Hero = () => {
               </a>
               <a
                 href="mailto:contact@quarilabs.com"
-                className="border border-black rounded-full flex gap-4 text-sm items-center py-2 pl-5 pr-2 font-clashDisplay font-bold"
+                className="border border-black rounded-full text-black flex gap-4 text-sm items-center py-2 pl-5 pr-2 font-clashDisplay font-semibold"
               >
                 Contact Us
                 <span className="bg-black rounded-full p-2">

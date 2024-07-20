@@ -31,7 +31,7 @@ const Footer = () => {
           <div className="max-sm:mt-10">
             <ul className="flex items-center gap-4">
               <li className="hover:cursor-not-allowed">
-                <a href="https://t.me/+233501654604">
+                <a href="https://t.me/quari_admin">
                   <Telegram className="max-md:w-4 max-md:h-4" />
                 </a>
               </li>

@@ -7,13 +7,13 @@ import Image from "next/image";
 const Project = () => {
   return (
     <Section id="projects" className="max-sm:mt-10">
-      <h1 className="flex gap-4 items-center text-3xl font-clashDisplay font-bold">
+      <h1 className="flex gap-4 items-center text-3xl text-black font-clashDisplay font-bold">
         <DoubleCircle />
         Projects
       </h1>
       <div className="bg-gradient-to-r from-[#181615] max-md:p-8 font-clashDisplay to-[#42403F] p-16 rounded-3xl relative mt-10 text-white flex flex-col ga-4">
         <h2 className="text-2xl font-bold">Velix</h2>
-        <p className="mt-4">
+        <p className="mt-4 font-light">
           Velix is a liquid staking as a service protocol on various ecosystems.
           <br />
           We offer tradable tokens for staked assets with a user-friendly
@@ -22,7 +22,7 @@ const Project = () => {
         <a
           href="https://velix.io"
           target="_blank"
-          className="w-fit mt-8 flex py-2 pl-5 pr-2 text-sm font-clashDisplay font-bold text-white items-center rounded-full gap-4 bg-gradient-to-r from-quari-orange-500 via-quari-orange-500 to-quari-orange-300"
+          className="w-fit mt-8 flex py-2 pl-5 pr-2 text-sm font-clashDisplay font-semibold text-white items-center rounded-full gap-4 bg-gradient-to-r from-quari-orange-500 to-quari-orange-300"
         >
           Visit product
           <span className="bg-white rounded-full p-2">

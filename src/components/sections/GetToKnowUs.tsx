@@ -8,7 +8,7 @@ const GetToKnowUs = () => {
   return (
     <Section className="!pb-0 max-sm:mt-10">
       <div>
-        <h1 className="flex gap-4 items-center text-3xl font-clashDisplay font-bold">
+        <h1 className="flex gap-4 text-black items-center text-3xl font-clashDisplay font-bold">
           <DoubleCircle />
           Get to know us
         </h1>
@@ -18,9 +18,9 @@ const GetToKnowUs = () => {
           digital transactions and decentralized applications
         </p>
 
-        <div className="flex max-sm:flex-col items-center gap-4">
-          <div className="font-clashDisplay bg-quari-gray-200 p-11 max-md:p-5 rounded-3xl h-max">
-            <h2 className="flex items-center gap-4 text-2xl font-bold">
+        <div className="flex max-sm:flex-col w-full items-center gap-4">
+          <div className="font-clashDisplay w-full bg-quari-gray-200 p-11 max-md:p-5 rounded-3xl h-max">
+            <h2 className="flex items-center gap-4 text-black text-2xl font-bold">
               <GoalIcon />
               Mission
             </h2>
@@ -29,8 +29,8 @@ const GetToKnowUs = () => {
               innovative and impactful blockchain solutions.
             </p>
           </div>
-          <div className="font-clashDisplay bg-quari-gray-200 p-11 max-md:p-5 rounded-3xl h-max">
-            <h2 className="flex items-center gap-4 text-2xl font-bold">
+          <div className="font-clashDisplay w-full bg-quari-gray-200 p-11 max-md:p-5 rounded-3xl h-max">
+            <h2 className="flex items-center gap-4 text-2xl text-black font-bold">
               <LampIcon />
               Vision
             </h2>
