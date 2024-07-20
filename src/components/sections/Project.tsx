@@ -29,7 +29,7 @@ const Project = () => {
             <ArrowUpIcon className="stroke-black" />
           </span>
         </a>
-        <div className="absolute -top-20 max-lg:right-0 max-lg:top-80 max-sm:top-64 -right-16 max-sm:block max-lg:hidden w-[38.1875rem] h-[29.25rem] max-sm:w-[25rem] max-sm:g-[17rem] max-lg:w-[22.8125rem] max-lg:h-[19.25rem]">
+        <div className="absolute -top-20 max-lg:right-0 max-lg:top-80 -right-16 max-lg:hidden w-[38.1875rem] h-[29.25rem] max-sm:w-[25rem] max-sm:g-[17rem] max-lg:w-[22.8125rem] max-lg:h-[19.25rem]">
           <Image src="/velix-demo.png" fill alt="velix demo" />
         </div>
       </div>
