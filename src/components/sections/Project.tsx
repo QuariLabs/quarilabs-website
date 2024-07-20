@@ -24,7 +24,7 @@ const Project = () => {
           target="_blank"
           className="w-fit mt-8 flex py-2 pl-5 pr-2 text-sm font-clashDisplay font-bold text-white items-center rounded-full gap-4 bg-gradient-to-r from-quari-orange-500 via-quari-orange-500 to-quari-orange-300"
         >
-          Visite product
+          Visit product
           <span className="bg-white rounded-full p-2">
             <ArrowUpIcon className="stroke-black" />
           </span>

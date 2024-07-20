@@ -35,7 +35,7 @@ const GetToKnowUs = () => {
               Vision
             </h2>
             <p className="text-quari-gray-500 mt-5">
-              To create high-demand blockchain dApps and
+              To create high-demand blockchain dApps,
               <br /> infrastructure, driving growth and innovation in the
               blockchain space.
             </p>
