@@ -12,7 +12,7 @@ const GetToKnowUs = () => {
           <DoubleCircle />
           Get to know us
         </h1>
-        <p className="font-clashDisplay font-normal text-quari-gray-500 my-10 max-w-4xl">
+        <p className="font-clashDisplay text-quari-gray-500 my-10 max-w-4xl font-light">
           At <b>QUARI Labs</b>, we lead blockchain technology advancements
           developing solutions that meet today’s demands and shape the future of
           digital transactions and decentralized applications
@@ -24,7 +24,7 @@ const GetToKnowUs = () => {
               <GoalIcon />
               Mission
             </h2>
-            <p className="text-quari-gray-500 mt-5">
+            <p className="text-quari-gray-500 mt-5 font-light">
               To become a leading blockchain development lab, <br /> delivering
               innovative and impactful blockchain solutions.
             </p>
@@ -34,7 +34,7 @@ const GetToKnowUs = () => {
               <LampIcon />
               Vision
             </h2>
-            <p className="text-quari-gray-500 mt-5">
+            <p className="text-quari-gray-500 mt-5 font-light">
               To create high-demand blockchain dApps,
               <br /> infrastructure, driving growth and innovation in the
               blockchain space.
